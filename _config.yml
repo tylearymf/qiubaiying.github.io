@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "manew"
+        title: "manew",
         href: "http://manew.com/"
     },
     {
